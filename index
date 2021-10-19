@@ -6,7 +6,7 @@
 <body style="background-color: yellow;">
     <h1 style="background-color: pink;">Ez az első dolgozatom programozásból!</h1>
     <p>Kerestem egy "Dolgozat írás vicces képet"</p>
-    <img src="dogakep.jpg">
+    <img src="https://github.com/Milaanb/dolgozat/blob/main/dogakep.jpg">
     <h1 style="background-color: green;">Irok egy verset is a dolgozatírásról!</h1>
 <pre>
 "csak egy kérdést nem tudtam,

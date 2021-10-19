@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dolgozat</title>
+</head>
+<body style="background-color: yellow;">
+    <h1 style="background-color: pink;">Ez az első dolgozatom programozásból!</h1>
+    <p>Kerestem egy "Dolgozat írás vicces képet"</p>
+    <img src="dogakep.jpg">
+    <h1 style="background-color: green;">Irok egy verset is a dolgozatírásról!</h1>
+<pre>
+"csak egy kérdést nem tudtam,
+Hál istennek meg nem buktam,
+Maga tanárként eszméletlen,
+az ötöst azt megérdemlem!"
+</pre>
+<br>Ha ezt a pólót viselem<br>DOLGOZATOT<br>írok!
+
+
+<p style="font-size: 40px;">Amikor dolgazatot írok:</p>
+
+<p style="color: tomato;">Csinálom a feladatom!</p>
+
+<p style="color: blue;">Kiszámolom hányasra állnék, ha ez egyes lenne!</p>
+</body>
+
+</html>
